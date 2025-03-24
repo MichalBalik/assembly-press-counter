@@ -3,7 +3,7 @@ Press counter in Assembly Code.
 
 # Device Functionality
 
-The device is used to count the presses of individual buttons placed on the board. Upon starting, a dash will appear on all displays. This state indicates that the device is ready for button presses.
+The device is used to count the presses of individual buttons placed on the board. Upon starting, a dash will appear on all displays. This state indicates that the device is ready for button presses. Created in **CPUEmul_1.2.8.jar**.
 
 ## How It Works
 
@@ -19,3 +19,4 @@ In addition to the regular buttons for counting presses, the board also has spec
 - The **SP** button displays the total number of presses for the letters `CDEF`.
 - The **RESET** button resets the count of presses for all recorded digits and characters.
 - The **END** button ends the program.
+
